@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Ali Farook
+# 👋 I'm Ali Farook
 
 ### 🚀 Full-Stack Web Developer | MERN Stack Enthusiast | Lifelong Learner
 
