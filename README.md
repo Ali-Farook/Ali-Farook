@@ -25,11 +25,5 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-Farook&show_icons=true&theme=tokyonight)
-
----
-
 Let's build something awesome together! 🚀
 
