@@ -1,6 +1,6 @@
 # 👋 I'm Ali Farook
 
-### 🚀 Backend Developer | Node.JS, Nest.JS, Express.JS, Python, AWS, EC2, S3, Serverless | Lifelong Learner
+### 🚀 Full Stack Developer | Node.JS, Nest.JS, React.js, Express.JS, Python, AWS, EC2, S3, Serverless | Lifelong Learner
 
 ---
 
